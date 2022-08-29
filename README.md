@@ -1,7 +1,7 @@
 <h1>Sobre</h1>
 <p>Quarto projeto do módulo 3 - Back-end, da <a href="https://betrybe.com" target="_blank">Trybe!</a></p>
-<p>Dessa vez foi o projeto Talker Manager. O desafio foi construir uma aplicação de cadastro de palestrantes em que seria possível cadastrar, visualizar, pesquisar, editar e excluir informações.
-Para isso desenvolvemos uma API de um CRUD (Create, Read, Update e Delete) com alguns endpoints para ler e escrever utilizando o módulo fs.</p>
+<p>Dessa vez foi o projeto Talker Manager. O desafio foi construir uma aplicação de cadastro de palestrantes em que seria possível cadastrar, visualizar, pesquisar, editar e excluir informações.</p>
+<p>Para isso desenvolvemos uma API de um CRUD (Create, Read, Update e Delete) com alguns endpoints para ler e escrever utilizando o módulo fs.</p>
 
 <h1>Instalando</h1>
 
